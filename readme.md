@@ -17,5 +17,5 @@ Posts saved images to a chosen subreddit and unsaves.
 `reddit_client_secret` - Reddit Client Secret  
 `reddit_target_subreddit` - Subreddit to stream and reply to
 
-`max_posts` - Posts each run
+`max_posts` - Posts each run  
 `sleep_timer` - Time between posts
